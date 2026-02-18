@@ -1,0 +1,7 @@
+2026-02-18 21:50:45-root-DEBUG-This is a debug meassage
+2026-02-18 21:50:45-root-INFO-This is info message
+2026-02-18 21:50:45-root-WARNING-This is warning message
+2026-02-18 21:50:45-root-ERROR-This is a error message
+2026-02-18 21:50:45-root-CRITICAL-This is a critical message
+2026-02-18 21:50:45-root-DEBUG-addition function is called
+2026-02-18 21:50:45-root-DEBUG-Addition operation taking place

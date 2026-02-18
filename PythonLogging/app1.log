@@ -1,0 +1,10 @@
+2026-02-18 22:33:29-ArithmaticAPP-ERROR-Division by zero error
+2026-02-18 22:33:41-ArithmaticAPP-ERROR-Division by zero error
+2026-02-18 22:39:12-ArithmaticAPP-ERROR-Division by zero error
+2026-02-18 22:39:12-ArithmaticAPP-DEBUG-Multiply 45*56 = 2520
+2026-02-18 22:39:12-ArithmaticAPP-DEBUG-Subtract 56-66 = -10
+2026-02-18 22:39:12-ArithmaticAPP-DEBUG-Adding 465+46545 = 47010
+2026-02-18 22:40:10-ArithmaticAPP-ERROR-Division by zero error
+2026-02-18 22:40:10-ArithmaticAPP-DEBUG-Multiply 45*56 = 2520
+2026-02-18 22:40:10-ArithmaticAPP-DEBUG-Subtract 56-66 = -10
+2026-02-18 22:40:10-ArithmaticAPP-DEBUG-Adding 465+46545 = 47010
